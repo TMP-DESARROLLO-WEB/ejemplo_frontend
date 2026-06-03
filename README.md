@@ -1,5 +1,4 @@
-# Consumir servicios web desde react
-
+# Frontend para JEDIs
 ## Requisitos
 
 Tener instalado:
