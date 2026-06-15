@@ -1,5 +1,5 @@
 // ─── Cambia esta variable para apuntar a tu servidor Flask ───────────────────
-const URL_BASE = 'http://localhost:5000'
+const URL_BASE = 'https://congenial-engine-4jv5qj6xw6q5c7575-5000.app.github.dev'
 
 // ─── GET todos ───────────────────────────────────────────────────────────────
 export async function getAllJedi() {
